@@ -1,0 +1,56 @@
+[
+{
+  "id": 10,
+  "category": {
+    "id": 0,
+    "name": "kedi"
+  },
+  "name": "kedican",
+  "photoUrls": [
+    "kedifoto"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "kedin"
+    }
+  ],
+  "status": "available"
+},
+{
+  "id": 11,
+  "category": {
+    "id": 0,
+    "name": "kopek"
+  },
+  "name": "kopekcan",
+  "photoUrls": [
+    "kopekfoto"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "kopem"
+    }
+  ],
+  "status": "eating"
+},
+{
+  "id": 12,
+  "category": {
+    "id": 0,
+    "name": "kus"
+  },
+  "name": "kuscan",
+  "photoUrls": [
+    "kusfoto"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "kusum"
+    }
+  ],
+  "status": "sleeping"
+}
+]
